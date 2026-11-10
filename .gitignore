@@ -1,0 +1,6 @@
+data/
+.claude/
+node_modules/
+.env
+*.log
+노원구_부동산_대시보드.html
